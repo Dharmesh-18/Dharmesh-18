@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Dharmesh-18&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api?username=Dharmesh-18&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Dharmesh-18&langs_count=5&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api/top-langs?username=Dharmesh-18&langs_count=5&theme=github_dark_dimmed)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Dharmesh-18&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api?username=Dharmesh-18&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Dharmesh-18&langs_count=5&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api/top-langs?username=Dharmesh-18&langs_count=5&theme=github_dark_dimmed)
 
 ![Snake animation](https://raw.githubusercontent.com/Dharmesh-18/Dharmesh-18/output/github-contribution-grid-snake.svg)
 
