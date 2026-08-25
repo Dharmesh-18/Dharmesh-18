@@ -1,17 +1,17 @@
 name: Commit Cobra
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
+      - uses: actions/checkout@v3
       - uses: Platane/snk@master
         id: snake-gif
-with:
+        with:
           github_user_name: Dharmesh-18
           svg_out_path: dist/github-contribution-grid-snake.svg
       - uses: crazy-max/ghaction-github-pages@v2.1.3
