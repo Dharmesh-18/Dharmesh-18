@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Snake animation](https://github.com/Dharmesh-18/Dharmesh-18/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Dharmesh-18/Dharmesh-18/output/github-contribution-grid-snake.svg)
 
 <!--
 **Dharmesh-18/Dharmesh-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
