@@ -23,6 +23,9 @@ I'm a backend-focused full-stack engineer with 5+ years of experience shipping p
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **Frontend**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -38,7 +41,7 @@ I'm a backend-focused full-stack engineer with 5+ years of experience shipping p
 
 ---
 
-### 💼 What I Work On
+### 💼 Projects that I worked on
 
 - 🤖 AI-integrated platforms — multi-model chatbots, document-based chat, OCR pipelines
 - 🧱 No-code / low-code builders — layout engines, reusable widgets, editor tooling
