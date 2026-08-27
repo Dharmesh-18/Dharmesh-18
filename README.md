@@ -71,12 +71,3 @@ I'm a backend-focused full-stack engineer with 5+ years of experience shipping p
 </p>
 
 ---
-
-<table>
-  <tr>
-    <td><img src="https://github-stats-extended.vercel.app/api?username=Dharmesh-18&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=github_dark_dimmed&v=2" /></td>
-    <td><img src="https://github-stats-extended.vercel.app/api/top-langs?username=Dharmesh-18&langs_count=5&theme=github_dark_dimmed" /></td>
-  </tr> 
-</table>
-
----
