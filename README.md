@@ -15,7 +15,9 @@ I'm a backend-focused full-stack engineer with 5+ years of experience shipping p
 ---
 
 ### Leetcode Activity
+<p align="center">
 ![LeetCode Badge](https://leetcard.jacoblin.cool/warbreaker?theme=dark&font=Karla&ext=heatmap)
+</p>
 <p align="center">
   <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="100" />
   &nbsp;&nbsp;
