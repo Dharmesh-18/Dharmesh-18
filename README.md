@@ -14,6 +14,9 @@ I'm a backend-focused full-stack engineer with 5+ years of experience shipping p
 
 ---
 
+### Leetcode Activity
+[![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=warbreaker&theme=dark)](https://leetcode.com/warbreaker)
+
 ### 🛠️ Tech Stack
 
 **Backend**
