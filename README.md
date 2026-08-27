@@ -16,7 +16,11 @@ I'm a backend-focused full-stack engineer with 5+ years of experience shipping p
 
 ### Leetcode Activity
 ![LeetCode Badge](https://leetcard.jacoblin.cool/warbreaker?theme=dark&font=Karla&ext=heatmap)
-[![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=warbreaker&theme=dark)](https://leetcode.com/warbreaker)
+<p align="center">
+  <img src="https://leetcode.com/medal/?showImg=0&id=8226823&isLevel=false" width="100" />
+  &nbsp;&nbsp;
+  <img src="https://leetcode.com/medal/?showImg=0&id=10656904&isLevel=false" width="100" />
+</p>
 
 ### 🛠️ Tech Stack
 
