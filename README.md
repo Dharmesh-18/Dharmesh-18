@@ -63,11 +63,3 @@ I'm a backend-focused full-stack engineer with 5+ years of experience shipping p
 - 🔐 Multi-tenant systems — RBAC, tenant isolation, secure API design
 
 ---
-
-### 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dharmesh-18/Dharmesh-18/output/github-contribution-grid-snake.svg" />
-</p>
-
----
