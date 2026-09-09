@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-I'm a backend-focused full-stack engineer with 5+ years of experience shipping production systems — from AI-integrated platforms to no-code builders and fintech systems. I care about clean architecture, scalable APIs, and squeezing real performance out of every layer of the stack.
+I'm a backend-focused full-stack engineer with ~5 years of experience shipping production systems — from AI-integrated platforms to no-code builders and fintech systems. I care about clean architecture, scalable APIs, and squeezing real performance out of every layer of the stack.
 
 ---
 
