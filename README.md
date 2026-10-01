@@ -23,7 +23,7 @@ I'm a backend-focused full-stack engineer with ~5 years of experience shipping p
   &nbsp;&nbsp;
   <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="100" />
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/medal/?showImg=0&id=10862717&isLevel=false" target="blank">
+  <a href="https://leetcode.com/medal/?showImg=0&id=10862717&isLevel=false" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/others/100.gif" width="100" />
   </a>
 </p>
