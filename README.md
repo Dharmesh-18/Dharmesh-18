@@ -19,11 +19,15 @@ I'm a backend-focused full-stack engineer with ~5 years of experience shipping p
   <img src ="https://leetcard.jacoblin.cool/warbreaker?theme=dark&font=Karla&ext=heatmap" />
 </p>
 <p align="center">
-  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="100" />
+  <a href="https://leetcode.com/medal/?showImg=0&id=10656904&isLevel=false">
+    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="100" />
+  </a>
   &nbsp;&nbsp;
-  <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="100" />
+  <a href="https://leetcode.com/medal/?showImg=0&id=8226823&isLevel=false">
+    <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="100" />
+  </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/medal/?showImg=0&id=10862717&isLevel=false" target="_blank">
+  <a href="https://leetcode.com/medal/?showImg=0&id=10862717&isLevel=false">
     <img src="https://assets.leetcode.com/static_assets/others/100.gif" width="100" />
   </a>
 </p>
