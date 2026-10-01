@@ -22,6 +22,8 @@ I'm a backend-focused full-stack engineer with ~5 years of experience shipping p
   <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="100" />
   &nbsp;&nbsp;
   <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="100" />
+  &nbsp;&nbsp;
+  <img src="https://assets.leetcode.com/static_assets/others/100.gif" width="100" />
 </p>
 
 ---
